@@ -1,4 +1,5 @@
-# hello-world
+# HelloWorld
+
 for learn the github
 
 Hi everyone!
